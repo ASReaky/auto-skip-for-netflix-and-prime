@@ -30,7 +30,7 @@ export const i18nMap = {
   fr_FR: {
     skip_intro: "Passer l'intro",
     next_epi: "Suivant",
-    skip_recap: "Passer le résumé",
+    skip_recap: "Ignorer le récap",
     skip_ads: "Ignorer",
   },
   it_IT: {
